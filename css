@@ -1,0 +1,11 @@
+body {
+    background-color: #004d00; /* Fondo verde oscuro */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+    color: white;
+    font-size: 100px; /* Tamaño de número grande */
+    font-family: Arial, sans-serif;
+}
